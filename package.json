@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "watson-developer-cloud": "^3.9.0"
+  }
+}
